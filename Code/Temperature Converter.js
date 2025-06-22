@@ -13,7 +13,7 @@
 </body>
 </html>
 
-//Link Link:
+//Add Link:
 var farn = parseFloat (prompt("Enter Farenheit : "));
 var cels = (farn-32)/5 ;
 document.write("Celcuis = "+ cels);
